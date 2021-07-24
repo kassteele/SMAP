@@ -4,7 +4,7 @@ Delen van dit script mogen gekopieerd worden voor eigen gebruik onder vermelding
 
 [Estimating the prevalence of 26 health-related indicators at neighbourhood level in the Netherlands using structured additive regression](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-017-0097-5). Van de Kassteele J, Zwakhals L, Breugelmans O, Ameling C, Van den Brink C. *International Journal of Health Geographics*, 2017, **16**(1), 23.
 
-De schattingen zijn terug te vinden op [Volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info) en [StatLine RIVM](https://statline.rivm.nl/#/RIVM/nl/dataset/50052NED/}).
+De schattingen zijn terug te vinden op [StatLine RIVM](https://statline.rivm.nl/#/RIVM/nl/dataset/50052NED/), [Volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info/onderwerp/atlas-vzinfo/alle-kaarten) en op [RIVM - Gezondheid per buurt, wijk en gemeente](https://www.rivm.nl/media/smap/).
 
 ## Aanleiding
 
@@ -29,4 +29,4 @@ De cijfers zijn berekend in het kader van het Strategisch Programma RIVM (SPR), 
 
 ## Meer weten?
 
-Een uitgebreide toelichting op de gebruikte methode is beschreven in het hierboven genoemde artikel. Voor de cijfers van 2016 zijn enkele aanpassingen gedaan aan het model. Voor vragen kunt u contact opnemen met [Carolien van den Brink](mailto:carolien.van.den.brink@rivm.nl).
+Een uitgebreide toelichting op de gebruikte methode is beschreven in het hierboven genoemde artikel. Voor de cijfers van 2016 zijn enkele aanpassingen gedaan aan het model. Voor vragen kunt u contact opnemen met [Laurens Zwakhals](mailto:laurens.zwakhals@rivm.nl) van het RIVM.
